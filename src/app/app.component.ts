@@ -13,7 +13,7 @@ import { Oauth2callbackComponent } from './oauth2callback/oauth2callback.compone
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'DOME';
+  title = 'fake-backend';
 
   constructor() {}
 
